@@ -1,0 +1,14 @@
+.git
+.idea
+target
+*.iml
+*.iws
+*.ipr
+.vscode
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.md
+Dockerfile
+docker-compose*.yml
